@@ -1,5 +1,0 @@
-Database User Username: Cluster17387
-Database User Password: al9GSHdkZ1Nl
-
-
-mongosh -u Cluster17387 -p al9GSHdkZ1Nl mongodb+srv://cluster17387.mbbbyrv.mongodb.net
